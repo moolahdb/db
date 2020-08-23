@@ -8,7 +8,7 @@
 
 <hr>
 <h3 align="center">
-A Google Drive Index Running on Cloudflare Workers ❤️
+A Google Drive Index Running on Cloudflare Workers ❤️ </h3>
 
 Based on [panta js](https://github.com/Hidove/goindex) with magic change beautification.
 
